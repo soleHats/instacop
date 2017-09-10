@@ -1,5 +1,4 @@
 <p align="left"><img width="200" src="logo.png" alt="InstaCop"></p>
-<br>
 
 > Enhanced shopping experience for the adidas.com online store.
 
@@ -114,7 +113,7 @@ You can force the fallback options toggling the `Avail.` and `Stock` table heade
 
 `Monitor` alerts the stock number during each refresh with a browser notification. Works best with Auto Refresh.
 
-Select the `Refresh` timout and click again to change the number.
+Select the `Refresh` timeout and click again to change the number.
 
 ## Captchas
 
@@ -128,7 +127,7 @@ You can toggle between [2Captcha](https://2captcha.com?from=3920048) and [AntiCa
 
 ## HMAC
 
-The HMAC coookie value cannot be changed without clicking the `Edit` button. This aims to prevent accidental changes.
+The HMAC cookie value cannot be changed without clicking the `Edit` button. This aims to prevent accidental changes.
 
 Included in the download is a HMAC test page, which is accessible by navigating to `w.www.adidas.tld/hmac` and sets a fake cookie for 10 minutes. Do not use this during release!
 
@@ -140,22 +139,30 @@ There is also a preset option for the product code. Right click the button betwe
 
 # Support
 
-I will provide absolutely no support regarding setup and usage. Contact me If you find a bug.
+I will provide absolutely no support regarding setup and usage.
+
+Try Twitter or [r/adidasATC](https://reddit.com/r/adidasATC).
 
 # Contributing
 
-Feature-wise we are probably at the limit of what can be done with a client side script. If you think of something, contact me or open a pull request.
+Feature-wise we are probably at the limit of what can be done with a client-side script. If you think of something, contact me or submit a pull request.
 
 ## About the code
 
-Please excuse the (in parts) messy code. This was my first JavaScript project.
+Please excuse the messy code. This was my first JavaScript project.
 
 I put everything in a single Vue.js component. `app.js` and `inventory.js` are coupled in a strange way. The CSS on top of bulma.css has way too many `!important`s in it.
 
-I also did not use any build tools for this project, which is kind of insane, but makes forking it easier for you.
+I also did not use any build tools for this project, which is kind of insane, but makes forking easier for you.
 
 Unfortunately, I don't have the time to refactor this project. If you'd like to contribute, please contact me or submit a pull request.
 
 # License
 
-☠️ Anyone on sneaker twitter trying to sell this in any shape or form can rot in hell.
+☠️ Anyone on Sneaker Twitter trying to sell this in any shape or form can rot in hell.
+
+# Contact
+
+[bequadro](https://twitter.com/bqdxo)
+
+[InstaCop](https://twitter.com/InstaCopV2)
