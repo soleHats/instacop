@@ -1,4 +1,4 @@
-<p align="center"><img width="200" src="logo.png" alt="InstaCop"></p>
+<p align="left"><img width="200" src="logo.png" alt="InstaCop"></p>
 <br>
 
 > Enhanced shopping experience for the adidas.com online store.
@@ -22,17 +22,17 @@ Like the infamous Solemartyr script, InstaCop runs solely in the browser and is 
 
 ![Screenshot](screenshot.png)
 
-<br>
+
 
 # Installation
 
 Installation is similar to Solemartyr's. Type the macOS commands into `Terminal.app`.
 
-### 1. Download and unzip
+### 1. Download and unzip.
 
    [![Github All Releases](https://img.shields.io/github/downloads/bequadro/instacop/total.svg?style=flat-square)](https://github.com/bequadro/instacop)
 
-### 2. Start a local server
+### 2. Start a local server.
 
    ###### macOS
 
@@ -42,7 +42,7 @@ Installation is similar to Solemartyr's. Type the macOS commands into `Terminal.
 
    Install MAMP or XAMPP.
 
-### 3. Put the files into the server root folder
+### 3. Put the files into the server root folder.
 
    Make sure to place `index.html` and the `instacop` folder directly on the root.
 
@@ -54,7 +54,7 @@ Installation is similar to Solemartyr's. Type the macOS commands into `Terminal.
 
    Look for some folder called `htdocs`, e.g. `C:\MAMP\htdocs`.
 
-### 4. Open your host file
+### 4. Open your host file.
 
    ###### macOS
 
@@ -64,15 +64,13 @@ Installation is similar to Solemartyr's. Type the macOS commands into `Terminal.
 
    Edit `C:\Windows\System32\Drivers\etc\hosts` as admin.
 
-### 5. Edit your host file
+### 5. Edit your host file.
 
    Add the following line, where `.tld` is your country's top level domain (`.com` for US, `.de` for Germany, ...).
 
    `127.0.0.1 w.www.adidas.tld`
 
-   Do not forget the additional `.w`.
-
-### 6. Save your host file
+### 6. Save your host file.
 
    ###### macOS
 
@@ -82,7 +80,7 @@ Installation is similar to Solemartyr's. Type the macOS commands into `Terminal.
 
    Just save the file.
 
-### 7. Open InstaCop in your browser
+### 7. Open InstaCop in your browser.
 
    Use the domain you specified in step 5.
 
