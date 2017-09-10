@@ -25,7 +25,7 @@ Like the infamous Solemartyr script, InstaCop runs solely in the browser and is 
 
 # Installation
 
-Installation is similar to Solemartyr's. Type the macOS commands into `Terminal.app`.
+Installation is similar to Solemartyr's script. Check YouTube if you have problems.
 
 ### 1. Download and unzip.
 
