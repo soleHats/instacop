@@ -23,7 +23,7 @@ Like the infamous Solemartyr script, InstaCop runs solely in the browser and is 
 - 2Captcha & AntiCaptcha Support
 - HMAC Cookie Management
 
-![Screenshot](v2.8.0.png)
+![Screenshot](screenshot.png)
 
 # Installation
 
