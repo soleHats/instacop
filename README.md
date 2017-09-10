@@ -1,6 +1,5 @@
 <p align="center"><img width="200" src="logo.png" alt="InstaCop"></p>
 <br>
-<br>
 
 > Enhanced shopping experience for the adidas.com online store.
 
