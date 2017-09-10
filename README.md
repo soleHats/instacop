@@ -1,9 +1,8 @@
-<h1 align="center">
+<p align="center">
 	<br>
 	<img width="200" src="logo.png" alt="InstaCop">
 	<br>
-	<br>
-</h1>
+</p>
 
 
 > Enhanced shopping experience for the adidas.com online store.
@@ -23,7 +22,10 @@ Like the infamous Solemartyr script, InstaCop runs solely in the browser and is 
 - 2Captcha & AntiCaptcha Support
 - HMAC Cookie Management
 
+<br>
+
 ![Screenshot](screenshot.png)
+
 
 # Installation
 
