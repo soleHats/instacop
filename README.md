@@ -163,6 +163,5 @@ Unfortunately, I don't have the time to refactor this project. If you'd like to 
 
 # Contact
 
-[bequadro](https://twitter.com/bqdxo)
-
-[InstaCop](https://twitter.com/InstaCopV2)
+- [bequadro](https://twitter.com/bqdxo)
+- [InstaCop](https://twitter.com/InstaCopV2)
